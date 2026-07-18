@@ -61,8 +61,6 @@ Open [http://localhost:3000](http://localhost:3000) — use **Internal** mode to
 
 If this is useful for your city, agency, or class project, star the repo and share it:
 
-**https://github.com/unaisshazan/traffic-intelligence**
-
 ## License
 
 Use freely for research, civic tech, and planning demos. Adapt to your cameras and local workflows.
